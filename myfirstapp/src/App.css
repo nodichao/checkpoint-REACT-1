@@ -1,0 +1,13 @@
+/* Code CSS pour App.js*/
+.App h1{
+    text-align: center;
+}
+.App h2{
+    margin-top: 50px;
+    text-align: center;
+    
+}
+
+form{
+    margin: 0 30%;
+}
